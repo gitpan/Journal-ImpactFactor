@@ -14,11 +14,11 @@ Journal::ImpactFactor - A list of updated scientiffic journal impact factor.
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 =head1 SYNOPSIS
@@ -42,7 +42,7 @@ Quick summary of what the module does.
 
 =head1 DESCRIPTION
 
-This module provides access to impact factor information of 1100 different scientific journals. You can access data from 2008 to 2013/2014. All data compiled here is from public domain. 
+This module provides access to impact factor information of 1100 different scientific journals. You can access data from 2008 to 2013/2014. All data compiled here is from www.citefactor.org.
 
 =head2 Methods
 
