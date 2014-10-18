@@ -6,7 +6,7 @@
    "dynamic_config" : 1,
    "generated_by" : "ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.142060",
    "license" : [
-      "unknown"
+      "perl_5"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -40,5 +40,14 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.03"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "http://rt.cpan.org/NoAuth/Bugs.html?Dist=Journal-ImpactFactor"
+      },
+      "homepage" : "https://github.com/Leprevost/Journal-ImpactFactor",
+      "repository" : {
+         "url" : "https://github.com/Leprevost/Journal-ImpactFactor.git"
+      }
+   },
+   "version" : "0.04"
 }
